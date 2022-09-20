@@ -1,1 +1,1 @@
-# webtechdb-WS2223
+# Code zur Vorlesung Web-Technologien und Datenbanken
